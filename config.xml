@@ -16,5 +16,5 @@
     <author href="https://build.assistel.it" email="razvan.gherghina@ibisoft.it">
         Razvan 
     </author>
-
+    <icon src="res/favicon.ico" />
 </widget>
